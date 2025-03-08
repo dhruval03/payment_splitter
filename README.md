@@ -1,8 +1,3 @@
-
-D23IT181 MODI KUSHAL JAYESHKUMAR
-2:55 PM (18 minutes ago)
-to me
-
 # Decentralized Payment Splitter
 
 
