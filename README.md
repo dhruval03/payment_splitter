@@ -21,11 +21,11 @@ The **Decentralized Payment Splitter** is a smart contract that enables seamless
 
 - Solidity
 
-- Hardhat/Truffle
+- Hardhat
 
 - Smart Contracts
 
-- Ethereum/EVM-compatible networks
+- HBAR/EVM-compatible networks
 
 - JavaScript/TypeScript for testing
 
