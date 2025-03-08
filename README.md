@@ -16,8 +16,6 @@ The **Decentralized Payment Splitter** is a smart contract that enables seamless
 
 - Supports multiple recipients with predefined shares
 
-- Compatible with Ethereum and EVM-compatible blockchains
-
 
 ## Technologies Used
 
@@ -25,7 +23,7 @@ The **Decentralized Payment Splitter** is a smart contract that enables seamless
 
 - Hardhat/Truffle
 
-- OpenZeppelin Contracts
+- Smart Contracts
 
 - Ethereum/EVM-compatible networks
 
